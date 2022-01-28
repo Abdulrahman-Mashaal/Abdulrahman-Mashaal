@@ -2,7 +2,7 @@
 
 ### Abdulrahman Mashaal
 
-I'm Abdulrahman from Egypt, and i am a Front-End Developer. I enjoy working with languages and frameworks like ReactJS and React Native 
+I'm Abdulrahman from Egypt, and i am a Front-End Developer. I enjoy working with languages and frameworks like ReactJS and React Native. 
 
 ## Skills and Experiences
 
