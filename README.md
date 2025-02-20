@@ -29,7 +29,6 @@ I can assist in crafting efficient and scalable front-end solutions, from initia
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahman-Mashaal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Mashaal" alt="Abdulrahman-Mashaal" /></a></p>
 </div>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://linkedin.com/in/abdulrahman-mashaal" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a><a target="_blank" href="https://dev.to/abdulrahman-mashaal" style="display: inline-block;margin-left:5px;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
