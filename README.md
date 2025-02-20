@@ -1,5 +1,4 @@
-<iframe src="https://github.com/Abdulrahman-Mashaal/Abdulrahman-Mashaal/blob/main/hero.html" width="100%" height="30vh"></iframe>
-[View the live animation](https://github.com/Abdulrahman-Mashaal/Abdulrahman-Mashaal/blob/main/hero.html)
+
 <h1>👋 Hi there! I'm Abdulrahman Mohammad Attia Mashaal</h1>
 <p>a passionate Software Engineer with over 3 years of experience in web development.</p>
 <h2>🚀 Languages and Tools I Use</h2>
