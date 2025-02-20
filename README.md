@@ -1,6 +1,19 @@
 
 <h1>👋 Hi there! I'm Abdulrahman Mohammad Attia Mashaal</h1>
-<p>a passionate Software Engineer with over 3 years of experience in web development.</p>
+🔭 Current Role
+I am a Front-End Web Developer at Future Face, specializing in building and maintaining user interfaces using Vue.js for admin panels and web portals. My primary focus is on creating intuitive, performant, and accessible user experiences.
+
+🌱 Professional Development
+I am actively exploring advanced front-end architecture patterns and staying updated on the latest advancements in JavaScript and related technologies. Additionally, I am expanding my backend knowledge with FastAPI and serverless architectures.
+
+👯 Collaboration Opportunities
+I am eager to collaborate on innovative web projects that leverage modern front-end frameworks, particularly Vue.js. I am passionate about contributing to well-designed, user-friendly front-end experiences and am also interested in projects with well-defined APIs.
+
+💬 Expertise & Inquiries
+Feel free to reach out to me regarding front-end development best practices, UI/UX principles, Vue.js development, JavaScript performance optimization, or building accessible and engaging web applications. I am also open to discussing API design and integration.
+
+🤖 What I Offer
+I can assist in crafting efficient and scalable front-end solutions, from initial design and development to deployment and maintenance. Moreover, I can help integrate front-end solutions with backend systems to create seamless applications. Let’s build something amazing together!
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="center">
   <a href="https://skillicons.dev">
