@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Animated SVG</title>
+<style>
+svg, html, body {
+  box-sizing: border-box;
+  height:100%;
+  width:100%;
+  padding:0;
+  margin:0;
+  background-image: radial-gradient(circle,rgb(0, 34, 35),black);
+}
+
+circle {
+  fill: white;
+  position: relative;
+  z-index: 100;
+}
+
+line {
+  stroke: rgba(0,255,255,0.05);
+  stroke-width: 1;
+  position: relative;
+  z-index:0;
+}
+</style>
+</head>
+<body>
+
+<svg id="svg"></svg>
+
+<script>
+  const svg = document.getElementById('svg');
+  const numCircles = 10; // Example number of circles
+  const numLines = 50;  // Example number of lines
+
+  for (let i = 0; i < numCircles; i++) {
+    const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    circle.cx.baseVal.value = Math.random() * svg.clientWidth;
+    circle.cy.baseVal.value = Math.random() * svg.clientHeight;
+    circle.r.baseVal.value = Math.random() * 20 + 5; // Random radius
+    svg.appendChild(circle);
+
+    // Example animation (adjust as needed)
+    circle.addEventListener('mouseover', () => {
+        circle.r.baseVal.value += 5;
+    });
+        circle.addEventListener('mouseout', () => {
+        circle.r.baseVal.value -= 5;
+    });
+
+
+  }
+
+  for (let i = 0; i < numLines; i++) {
+    const line = document.createElementNS("http://www.w3.org/2000/svg", "line");
+    line.x1.baseVal.value = Math.random() * svg.clientWidth;
+    line.y1.baseVal.value = Math.random() * svg.clientHeight;
+    line.x2.baseVal.value = Math.random() * svg.clientWidth;
+    line.y2.baseVal.value = Math.random() * svg.clientHeight;
+    svg.appendChild(line);
+  }
+
+  // ... Add more complex animation using JavaScript ...
+</script>
+
+</body>
+</html>
