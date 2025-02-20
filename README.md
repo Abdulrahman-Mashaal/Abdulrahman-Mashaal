@@ -30,4 +30,4 @@ I can assist in crafting efficient and scalable front-end solutions, from initia
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://linkedin.com/in/abdulrahman-mashaal" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a><a target="_blank" href="https://dev.to/abdulrahman-mashaal" style="display: inline-block;margin-left:5px;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://medium.com/@mashaal.dev" style="display: inline-block;margin-left:5px;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Mashaal)](https://github.com/Abdulrahman-Mashaal/github-readme-stats)
